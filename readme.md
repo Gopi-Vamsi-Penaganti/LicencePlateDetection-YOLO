@@ -8,12 +8,12 @@
 
 # Results
 ## Metrics
-![Metric Results](Saved_Model\Model2\results.png)
+![Metric Results](Images/results.png)
 ## Training images
-![Training images](Saved_Model\Model2\train_batch0.jpg)
+![Training images](Images/train_batch1.jpg)
 ## Validation images
-![Validation Images](Saved_Model\Model2\val_batch2_pred.jpg)
+![Validation Images](Images/val_batch0_pred.jpg)
 
 ## Test Images
-![Testing Images](subplots.png)
+![Testing Images](Images/subplots.png)
 
